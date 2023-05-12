@@ -1,10 +1,9 @@
 import json
 import time
-import openai
 from tqdm import tqdm
 
-from src.settings import news_api_key, webhook_url
-from src.utils import (
+from settings import news_api_key, webhook_url
+from utils import (
     get_completion,
     fetch_news,
     send_to_slack
