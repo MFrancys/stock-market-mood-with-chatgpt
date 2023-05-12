@@ -1,4 +1,4 @@
-# STOCk MARKET MOOD WITH CHATGPT V.1.0.0
+# STOCK MARKET MOOD WITH CHATGPT V.1.0.0
 
 Sentiment Analysis Chatbot for S&P 500 Companies
 
